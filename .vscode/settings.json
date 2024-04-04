@@ -1,0 +1,10 @@
+{
+    "python.autoComplete.extraPaths": [
+        "./utils",
+        "./data_structure"
+    ],
+    "python.analysis.extraPaths": [
+        "./utils",
+        "./data_structure"
+    ]
+}

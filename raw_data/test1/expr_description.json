@@ -1,0 +1,11 @@
+{
+	"expr_name": "start_pos_test",
+	"config_file": "config.json",
+	"cali_files": [],
+	"cir_files": ["cirtest_COM4.log", "cirtest_COM5.log", "cirtest_COM6.log", "cirtest_COM14.log", "cirtest_COM18.log"],
+	"oncable_delay": [],
+	"init_position": [0.74, 0.17, 0],
+	"dirty_debug_file": "",
+	"groundtruth_file": "./test1/gt.csv",
+	"align_indices": [270, 28, 2180, 909]
+}
