@@ -25,3 +25,5 @@ This reads pre-stored CIR data (./raw_data) and generates a file `tracking_resul
 `file_dir = "./raw_data/test1/"`
 
 * Run script `./matlab_analysis_scripts/evaluate_accuracy_ae.m` to compute error and perform visualization. This script takes `tracking_results.mat` as inputs and generates CDF error plot and trajectory visualization in the current folder.
+
+The CDF error plot and trajectories of three examples have already been pre-generated and put in `./matlab_analysis_scripts/`.
