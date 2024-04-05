@@ -13,7 +13,7 @@ from Tracker import *
 
 
 # Setup. 
-file_dir = "./raw_data/test3/"
+file_dir = "./raw_data/test2/"
 expr_description_file = "expr_description.json"
 n_taps = 100
 up_factor = 64
